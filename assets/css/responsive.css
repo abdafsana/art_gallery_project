@@ -1,0 +1,67 @@
+@media (max-width: 968px) and (min-width: 768px) {
+  .header-container--section {
+    width: 100%;
+  }
+  .header-container--section1 {
+    display: none !important;
+  }
+  .header-container--img > img {
+    width: 57%;
+  }
+  .header-title {
+    right: 5%;
+    top: 50%;
+  }
+  .header-container--comtitle {
+    left: 42.5%;
+  }
+  .header-container--title {
+    font-size: 70px;
+    color: var(--color-black, #000) !important;
+  }
+  .header-container--about {
+    width: 92%;
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .day-section--title {
+    font-size: 45px;
+  }
+  .day-container-subttl > p {
+    font-size: 18px;
+  }
+  .day-section--container2 {
+    width: 398px;
+    height: 400px;
+  }
+  .image-section-title {
+    width: 100%;
+  }
+  .image-title {
+    font-size: 50px;
+  }
+  .image-section-subtitle {
+    width: 100%;
+  }
+  .image-subtitle {
+    font-size: 18px;
+  }
+  .footer-container {
+    width: 100%;
+  }
+  .footer-section {
+    p {
+      font-size: 16px;
+    }
+    > img {
+      width: 110.05px;
+      height: 40px;
+    }
+  }
+  .footer-list {
+    height: 40%;
+  }
+  .list-item {
+    font-size: 23px;
+  }
+}
